@@ -1,3 +1,9 @@
 body {
     padding-top: 5rem;
 }
+
+.flashes{
+    color: red;
+    font-size: large;
+    font: bold;
+}
